@@ -2,6 +2,6 @@ Hi. I'm Łukasz, a self-taught web developer writing in JavaScript. I gather exp
 
 I am proud to present my first full-stack project - a single page application with appointmnent scheduler that serves as a website for a psychologist. Take a look into the pinned repositories [ec-api](https://github.com/l-walaszczyk/ec-api) and [ec-ui](https://github.com/l-walaszczyk/ec-ui) to see more. Please note that I continuously improve the projects as I learn more and any comments to my work are welcome - be it the code or user experience.
 
-I'm eager to learn new technologies, especially I want to get a grasp on Angular framework and TypeScript while working on an upcoming project (admin panel for the appointment scheduler).
+While working on my next project (admin panel for the appointment scheduler) I'm going to learn TDD, react-bootstrap and Redux. After that, my next goal will probably be to learn TypeScript.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/l-walaszczyk/)
